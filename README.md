@@ -1,2 +1,2 @@
 # Pchome_Search
-exercise
+Enter a key word wihch you want search on [PchomeStore](https://www.pcstore.com.tw/),this program will show you the search results.
